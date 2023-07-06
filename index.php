@@ -39,11 +39,11 @@
           
           
       </article>
-      <div class="profile"><p>Tecnólogo en gestión bibliotecaria del Servicio Nacional de Aprendizaje. Con conocimientos y habilidades en el manejo de documentación y procesos administrativos, he desempeñado labores en el repositorio institucional (SENA). <br>
+      <div class="profile"><p>Tecnólogo en gestión bibliotecaria, con conocimientos y habilidades en el manejo de documentación y procesos administrativos. <br>
 Además de mis experiencias en bibliotecas, poseo conocimientos en revistas científicas y estoy familiarizado con los estándares y procesos de indexación de artículos científicos (OJS). Tengo experiencia en la búsqueda, selección y organización de artículos científicos relevantes para apoyar la investigación y la toma de decisiones en entornos académicos y profesionales.<br>
-En términos de programación web, cuento con habilidades en PHP, HTML, JavaScript, CSS y Bases de Datos.<br>
-Además de mis conocimientos técnicos, soy una persona responsable y organizada. Poseo habilidades de comunicación y de trabajo en equipo, lo que me permite colaborar de manera efectiva con colegas, clientes y usuarios.<br>
-Mi experiencia laboral incluye trabajar en la Secretaría de Salud de Bogotá y la biblioteca del Centro de Gestión Administrativa Regional Bogotá.
+En el campo de la programación, cuento con habilidades en PHP, HTML, JavaScript, CSS y Bases de Datos.<br>
+Además de mis conocimientos técnicos, soy una persona responsable y organizada. 
+
 
         </p></div>
       <div class="imgbox"><img src="img/library.jpg" alt="imgService" class="imgService" ></div>
@@ -156,6 +156,7 @@ Mi experiencia laboral incluye trabajar en la Secretaría de Salud de Bogotá y 
     <!-- Carga de script -->
     <script src="menu.js"></script>
     <script src="ligthbox.js"></script>
+  
     <a class="credits" href="https://www.flaticon.es/iconos-gratis/desarrollo-de-software" title="desarrollo de software iconos">Iconos creados por kerismaker</a> 
 
 

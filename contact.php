@@ -10,13 +10,13 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body class="contactbody">
-<?php include 'conexion.php'; ?>
+
     <H1>Contáctanos</H1>
     
     <main class="contactContainer">
         <p class="titleRegister">formulario de registro</p>
         <section class="register">
-                <form action="conexion.php" method="POST">
+                <form id="contactForm"  method="POST">
                     <input class="boxRegister" placeholder="Nombre" type="text" name="nombre">
                     <input class="boxRegister" placeholder="Correo" type="email" name="correo">
                     <input class="boxRegister" placeholder="Telefono" type="number" name="telefono">
@@ -65,4 +65,6 @@
 
 
 </body>
+
+<script src="sendToApi.js"></script>
 </html>
